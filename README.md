@@ -5,6 +5,8 @@
 
 - 🌱 I’m learning **AI, PyTorch, Diffusers**
 
+- 📸 In my free time I am taking pictures using my analog camera
+
 - 👨‍💻 All of my projects are available [here](www.ewoj.dev)
 
 - 📫 How to reach me **ewojdev@gmail.com**
