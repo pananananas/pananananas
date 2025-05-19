@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working on **Custom Diffusion Adapter for Multi-View Diffusion**
 
-- 🌱 I’m currently learning **PyTorch, Diffusers, NextJS**
-
-- 📱 I’m developing [an app for Tattoo Visualisation using various AI methods](www.tattooai.vercel.app/)
+- 🌱 I’m learning **AI, PyTorch, Diffusers**
 
 - 👨‍💻 All of my projects are available [here](www.ewoj.dev)
 
