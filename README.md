@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Eryk</h1>
+<h1 align="left">Hi 👋 I'm Eryk</h1>
 <h3 align="left">An AI engineer, Web developer and sometimes designer 👀</h3>
 
 - 🔭 I’m currently working on **Custom Diffusion Adapter for Multi-View Diffusion**
