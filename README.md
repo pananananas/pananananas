@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available [here](https://www.ewoj.dev)
 
-- 📫 How to reach me [ewojdev@gmail.com](mailto:ewojdev@gmail.com)
+- 📫 My e-mail: ewojdev@gmail.com
 
 - 📄 Check out my [CV](https://utfs.io/f/aslkQcPvYvFBYfhvC0TBoVnpHFl3zyAX5C2cUk0fPb7KEIwd)
 
