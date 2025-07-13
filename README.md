@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋 I'm Eryk</h1>
-<h3 align="left">An AI engineer, Web developer and sometimes designer 👀</h3>
+<h3 align="left">An AI engineer and Web developer</h3>
 
 - 🔭 I’m currently working on **a custom Multi-View Diffusion model, and [InkVision](https://inkvis.vercel.app/) mobile app**
 
