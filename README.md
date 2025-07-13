@@ -1,9 +1,9 @@
 <h1 align="left">Hi 👋 I'm Eryk</h1>
 <h3 align="left">An AI engineer, Web developer and sometimes designer 👀</h3>
 
-- 🔭 I’m currently working on **Custom Diffusion Adapter for Multi-View Diffusion**
+- 🔭 I’m currently working on **a custom Multi-View Diffusion model, and [InkVision](https://inkvis.vercel.app/) mobile app**
 
-- 🌱 I’m learning **AI, PyTorch, Diffusers**
+- 🌱 I’m learning **AI, PyTorch, Diffusers, NextJS**
 
 - 📸 In my free time I am taking pictures using my analog camera
 
